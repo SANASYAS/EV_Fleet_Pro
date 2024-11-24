@@ -1,1 +1,1 @@
-ElectricRangePrediction : python streamlit_prediction.py
+web: streamlit run streamlit_prediction.py
